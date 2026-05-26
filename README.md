@@ -323,3 +323,5 @@ For questions or issues, contact: [Your Email]
 ---
 
 **Note**: Make sure both Django backend (port 8000) and React frontend (port 3000) are running simultaneously for the web application to work properly. The desktop app only needs the Django backend running.
+
+Hey I made some changes to README file, now add and commit it 
